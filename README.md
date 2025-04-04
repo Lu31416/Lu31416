@@ -8,9 +8,8 @@
 
 📈 Currently exploring:
 - Python for Data Analysis & Machine Learning  
-- API Development & Integration  
-- Data Visualization with Power BI  
 - Projects with real-world data (check out my [Kaggle](https://www.kaggle.com/luisatutau)!)
+- API Development & Integration  
 
 💬 Fun facts: I love languages, I’m curious about everything, and I'm always working on new ideas.
 
