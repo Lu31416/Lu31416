@@ -1,3 +1,4 @@
+
 # Hi there, I'm Luisa Tutau 👋
 
 💼 Industrial Engineer who fell in love with Data Science & AI  
