@@ -2,7 +2,7 @@
 # Hi there, I'm Luisa Tutau 👋
 
 💼 Industrial Engineer. Data Science & AI Enthusiast
-📊 [My Kaggle](https://www.kaggle.com/luisatutau) | 💻 [My GitHub](https://github.com/Lu31416)
+📊 [My Kaggle](https://www.kaggle.com/luisatutau/code) | 💻 [My GitHub](https://github.com/Lu31416)
 ✍️ [**Medium**](https://medium.com/@luisatutau)
 🌍 🇺🇸 English · 🇦🇷 Spanish · 🇧🇷 Portuguese
 
