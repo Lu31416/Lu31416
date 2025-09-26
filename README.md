@@ -1,5 +1,5 @@
 
-# Hi there, I'm Luisa Tutau 👋
+# Hi, I'm Luisa Tutau 👋
 
 💼 Industrial Engineer. Data Science & AI Enthusiast
 📊 [My Kaggle](https://www.kaggle.com/luisatutau/code) | 💻 [My GitHub](https://github.com/Lu31416)
